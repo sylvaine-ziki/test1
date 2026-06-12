@@ -1,0 +1,5 @@
+interface:
+  display_name: "和君 PPT 快速生产"
+  short_description: "按和君 SOP 快速绘制可编辑 PPT 与图表"
+  default_prompt: "使用和君 PPT 快速生产 skill，根据我提供的内容和数据制作可编辑 PPT；不要主动做研究，严格遵守 Storyline、数据来源、颜色、字体和行距 SOP，并根据内容创新正文版式。"
+
